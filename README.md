@@ -27,4 +27,5 @@ Matplotlib
 Requests
 
 🖼️ Preview
-![Weather Chart Preview](screenshot.png)
+![Weather Chart Preview](![Screenshot 2025-07-08 115251](https://github.com/user-attachments/assets/6640e358-f1b1-4ab4-b989-fc353a1c7ac7)
+.png)
